@@ -1,7 +1,7 @@
 # monitoramento_olx
 
-Script com a função de acessar o site selecionado com parâmetros determinado a fazer a busca. Tudo isso direto pelo link com essas configurações.
-Ele fara a busca pelo link passado e retorna os dados e salva em um arquivo .CSV
+Script com a função de acessar o site com parâmetros determinado a fazer a busca.
+Ele fara a busca pelo link passado e retorna os dados, salva em um arquivo .CSV
 Dados são:
 Nome do produto
 Valor do produto
